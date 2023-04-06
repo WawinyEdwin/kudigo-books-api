@@ -6,7 +6,7 @@ This backend service exposes its functionality to frontend clients via API endpo
 
 ### Installation Guide
 
-- Clone this repository [here](https://github.com/WawinyEdwin/wezacare-challenge.git).
+- Clone this repository [here](https://github.com/WawinyEdwin/kudigo-books-api.git).
 - The `main` branch is the most stable branch at any given time, ensure you're working from it.
 - Run `pip install -r requirements.txt` to install dependencies.
 - Once the packages are installed preferably on a virtual env( can be created through `python -m venv venv`)
